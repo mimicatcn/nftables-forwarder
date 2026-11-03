@@ -18,6 +18,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/mimicatcn/nftables-forwarder/m
 | 2 | 删除转发规则 |
 | 3 | 查看所有规则 |
 | 4 | 保存规则 |
+| 5 | 设置端口限速（上下行各 Mbps） |
+| 6 | 设置累计流量额度（输入100即100GB） |
+| 7 | 查看流量和带宽使用情况 |
 | 0 | 退出 |
 
 ## 系统要求
